@@ -1,0 +1,415 @@
+{
+    "states": [
+      {
+        "name": "Andhra Pradesh",
+        "places": [
+          {
+            "name": "Charminar",
+            "location": "Hyderabad",
+            "description": "A monument and mosque located in Hyderabad, Telangana, India. Constructed in 1591, the landmark has become a global icon of Hyderabad."
+          },
+          {
+            "name": "Tirumala Venkateswara Temple",
+            "location": "Tirupati",
+            "description": "A famous Hindu temple dedicated to Lord Venkateswara, located in the hill town of Tirumala, near Tirupati in the Chittoor district of Andhra Pradesh."
+          },
+          {
+            "name": "Borra Caves",
+            "location": "Visakhapatnam",
+            "description": "Located on the East Coast of India, in the Ananthagiri hills of the Araku Valley, Borra Caves are at a height of about 705 m and are known for their unique stalactite and stalagmite formations."
+          }
+        ]
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "places": [
+          {
+            "name": "Tawang Monastery",
+            "location": "Tawang",
+            "description": "The largest monastery in India and the second largest in the world, located in the Indian state of Arunachal Pradesh."
+          },
+          {
+            "name": "Namdapha National Park",
+            "location": "Changlang",
+            "description": "A biodiversity hotspot located in the Eastern Himalayas, it is the largest protected area in the Eastern Himalaya biodiversity hotspot and is in Arunachal Pradesh in Northeast India."
+          }
+        ]
+      },
+      {
+        "name": "Assam",
+        "places": [
+          {
+            "name": "Kaziranga National Park",
+            "location": "Golaghat",
+            "description": "A protected area in the northeast Indian state of Assam. Spread across the floodplains of the Brahmaputra River, its forests, wetlands and grasslands are home to tigers, elephants and the world’s largest population of Indian one-horned rhinoceroses."
+          },
+          {
+            "name": "Kamakhya Temple",
+            "location": "Guwahati",
+            "description": "A Hindu temple dedicated to the mother goddess Kamakhya, one of the oldest of the 51 Shakti Pithas, situated on the Nilachal Hill in western part of Guwahati city in Assam, India."
+          }
+        ]
+      },
+      {
+        "name": "Bihar",
+        "places": [
+          {
+            "name": "Mahabodhi Temple",
+            "location": "Bodh Gaya",
+            "description": "A UNESCO World Heritage Site, it is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment."
+          },
+          {
+            "name": "Takht Sri Patna Sahib",
+            "location": "Patna",
+            "description": "Also known as Harmandir Sahib, it is a Sikh Gurdwara in the neighborhood of Patna Sahib, Patna, Bihar, India."
+          }
+        ]
+      },
+      {
+        "name": "Chhattisgarh",
+        "places": [
+          {
+            "name": "Chitrakoot Falls",
+            "location": "Jagdalpur",
+            "description": "Located to the west of Jagdalpur, in Bastar district in the Indian state of Chhattisgarh on the Indravati River, the waterfall is one of the natural landmarks in Chhattisgarh."
+          },
+          {
+            "name": "Bhoramdeo Temple",
+            "location": "Kawardha",
+            "description": "A complex of Hindu temples dedicated to the god Shiva in Bhoramdeo, in the Indian state of Chhattisgarh."
+          }
+        ]
+      },
+      {
+        "name": "Goa",
+        "places": [
+          {
+            "name": "Basilica of Bom Jesus",
+            "location": "Old Goa",
+            "description": "A UNESCO World Heritage Site, it is located in Old Goa, India. The basilica holds the mortal remains of St. Francis Xavier."
+          },
+          {
+            "name": "Dudhsagar Falls",
+            "location": "Sanguem",
+            "description": "Located on the Mandovi River in the Indian state of Goa on Goa's border with Karnataka state. It is four-tiered."
+          }
+        ]
+      },
+      {
+        "name": "Gujarat",
+        "places": [
+          {
+            "name": "Gir Forest National Park",
+            "location": "Junagadh",
+            "description": "A wildlife sanctuary in Gujarat, western India. It was established to protect Asiatic lions, who live in the area."
+          },
+          {
+            "name": "Somnath Temple",
+            "location": "Veraval",
+            "description": "An important pilgrimage and tourist spot of Gujarat. It is located on the western coast of Gujarat."
+          }
+        ]
+      },
+      {
+        "name": "Haryana",
+        "places": [
+          {
+            "name": "Kurukshetra",
+            "location": "Kurukshetra",
+            "description": "A land of historical and religious importance. The Bhagavad Gita was preached here during the Mahabharata era."
+          },
+          {
+            "name": "Surajkund",
+            "location": "Faridabad",
+            "description": "An ancient reservoir of the 10th century, Surajkund is an ideal place for a weekend getaway from Delhi."
+          }
+        ]
+      },
+      {
+        "name": "Himachal Pradesh",
+        "places": [
+          {
+            "name": "Manali",
+            "location": "Kullu",
+            "description": "A high-altitude Himalayan resort town in India’s northern Himachal Pradesh state. It has a reputation as a backpacking center and honeymoon destination."
+          },
+          {
+            "name": "Shimla",
+            "location": "Shimla",
+            "description": "The capital city of the Indian state of Himachal Pradesh, located in northern India at an elevation of 7,200 ft."
+          }
+        ]
+      },
+      {
+        "name": "Jharkhand",
+        "places": [
+          {
+            "name": "Hundru Falls",
+            "location": "Ranchi",
+            "description": "A waterfall located in Ranchi district in the Indian state of Jharkhand. It is the 34th highest waterfall in India."
+          },
+          {
+            "name": "Hazaribagh National Park",
+            "location": "Hazaribagh",
+            "description": "A national park in the Indian state of Jharkhand, about 55 miles north of Ranchi. It was established in 1954."
+          }
+        ]
+      },
+      {
+        "name": "Karnataka",
+        "places": [
+          {
+            "name": "Mysore Palace",
+            "location": "Mysore",
+            "description": "A historical palace and a royal residence at Mysore in the Indian state of Karnataka."
+          },
+          {
+            "name": "Hampi",
+            "location": "Hampi",
+            "description": "A UNESCO World Heritage Site located in east-central Karnataka, India. It became the center of the Hindu Vijayanagara Empire capital in the 14th century."
+          }
+        ]
+      },
+      {
+        "name": "Kerala",
+        "places": [
+          {
+            "name": "Alappuzha (Alleppey)",
+            "location": "Alappuzha",
+            "description": "Known as the 'Venice of the East,' Alappuzha is famous for its backwaters, beaches, and houseboat cruises."
+          },
+          {
+            "name": "Munnar",
+            "location": "Munnar",
+            "description": "A hill station and former resort for the British Raj elite, surrounded by rolling hills dotted with tea plantations established in the late 19th century."
+          }
+        ]
+      },
+      {
+        "name": "Madhya Pradesh",
+        "places": [
+          {
+            "name": "Khajuraho Group of Monuments",
+            "location": "Khajuraho",
+            "description": "A group of Hindu and Jain temples in Madhya Pradesh, India, about 175 kilometres (109 mi) southeast of Jhansi."
+          },
+          {
+            "name": "Sanchi Stupa",
+            "location": "Sanchi",
+            "description": "A Buddhist complex, famous for its Great Stupa, on a hilltop at Sanchi Town in Raisen District of the State of Madhya Pradesh, India."
+          }
+        ]
+      },
+      {
+        "name": "Manipur",
+        "places": [
+          {
+            "name": "Loktak Lake",
+            "location": "Imphal",
+            "description": "The largest freshwater lake in northeastern India, located near Moirang in Manipur state, India."
+          },
+          {
+            "name": "Kangla Fort",
+            "location": "Imphal",
+            "description": "A former seat of power of the Kingdom of Manipur. It also has religious significance as it is the holy place of worship of Goddess Durga."
+          }
+        ]
+      },
+      {
+        "name": "Meghalaya",
+        "places": [
+          {
+            "name": "Cherrapunji",
+            "location": "East Khasi Hills",
+            "description": "A subdivisional town in the East Khasi Hills district in the Indian state of Meghalaya. It is known as one of the wettest places on Earth."
+          },
+          {
+            "name": "Mawlynnong",
+            "location": "East Khasi Hills",
+            "description": "A village in the East Khasi Hills district of the Meghalaya state in northeastern India, known for its cleanliness and natural attraction."
+          }
+        ]
+      },
+      {
+        "name": "Mizoram",
+        "places": [
+          {
+            "name": "Reiek",
+            "location": "Reiek",
+            "description": "A tourist spot near Aizawl, Mizoram. It is an excellent spot for trekkers, and nature lovers."
+          },
+          {
+            "name": "Durtlang Hills",
+            "location": "Aizawl",
+            "description": "A small mountain range situated in the capital city of Mizoram, Aizawl."
+          }
+        ]
+      },
+      {
+        "name": "Nagaland",
+        "places": [
+          {
+            "name": "Dzukou Valley",
+            "location": "Kohima",
+            "description": "A valley located at the border of the Indian states of Nagaland and Manipur."
+          },
+          {
+            "name": "Kohima War Cemetery",
+            "location": "Kohima",
+            "description": "A memorial dedicated to soldiers of the 2nd British Division of the Allied Forces who died in the Second World War at Kohima, the capital of Nagaland, India."
+          }
+        ]
+      },
+      {
+        "name": "Odisha",
+        "places": [
+          {
+            "name": "Konark Sun Temple",
+            "location": "Puri",
+            "description": "A 13th-century Sun Temple at Konark in Odisha, India. It is believed to have been built by King Narasimhadeva I of Eastern Ganga Dynasty in 1255 CE."
+          },
+          {
+            "name": "Puri Beach",
+            "location": "Puri",
+            "description": "A popular beach located on the shores of the Bay of Bengal in the city of Puri in the state of Odisha, India."
+          }
+        ]
+      },
+      {
+        "name": "Punjab",
+        "places": [
+          {
+            "name": "Golden Temple",
+            "location": "Amritsar",
+            "description": "A gurdwara located in the city of Amritsar, Punjab, India. It is one of the most revered spiritual sites of Sikhism."
+          },
+          {
+            "name": "Jallianwala Bagh",
+            "location": "Amritsar",
+            "description": "A public garden in Amritsar in the Punjab state of India, and houses a memorial of national importance, established in 1951 by the Government of India."
+          }
+        ]
+      },
+      {
+        "name": "Rajasthan",
+        "places": [
+          {
+            "name": "Jaipur City Palace",
+            "location":           "Jaipur",
+            "description": "A palace constructed of red and pink sandstone. The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women's chambers."
+          },
+          {
+            "name": "Jaisalmer Fort",
+            "location": "Jaisalmer",
+            "description": "A UNESCO World Heritage Site, it is one of the largest fully preserved fortified cities in the world."
+          }
+        ]
+      },
+      {
+        "name": "Sikkim",
+        "places": [
+          {
+            "name": "Gangtok",
+            "location": "Gangtok",
+            "description": "The capital and the largest town of the Indian state of Sikkim. It is located in the eastern Himalayan range, at an elevation of 1,650 m."
+          },
+          {
+            "name": "Tsomgo Lake",
+            "location": "East Sikkim",
+            "description": "A glacial lake in the East Sikkim district of the Indian state of Sikkim, some 40 kilometres (25 mi) from the capital Gangtok."
+          }
+        ]
+      },
+      {
+        "name": "Tamil Nadu",
+        "places": [
+          {
+            "name": "Meenakshi Amman Temple",
+            "location": "Madurai",
+            "description": "A historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India."
+          },
+          {
+            "name": "Brihadeeswarar Temple",
+            "location": "Thanjavur",
+            "description": "A Hindu temple dedicated to Shiva, located in Thanjavur in the Indian state of Tamil Nadu."
+          }
+        ]
+      },
+      {
+        "name": "Telangana",
+        "places": [
+          {
+            "name": "Golkonda Fort",
+            "location": "Hyderabad",
+            "description": "A fortified citadel and an early capital city of the Qutb Shahi dynasty, located in Hyderabad, Telangana, India."
+          },
+          {
+            "name": "Ramoji Film City",
+            "location": "Hyderabad",
+            "description": "A film studio complex situated in Hyderabad, Telangana, India. It is the largest integrated film city in the world."
+          }
+        ]
+      },
+      {
+        "name": "Tripura",
+        "places": [
+          {
+            "name": "Neermahal",
+            "location": "Melaghar",
+            "description": "A former royal palace situated in Tripura, India, about 53 kilometers from the city of Agartala, built by Maharaja Bir Bikram Kishore Debbarman Manikya Bahadur in 1930."
+          },
+          {
+            "name": "Unakoti",
+            "location": "Kailashahar",
+            "description": "A historic Shaivite place of worship with rock-cut images and stone idols, situated in the Unakoti district of Tripura, India."
+          }
+        ]
+      },
+      {
+        "name": "Uttar Pradesh",
+        "places": [
+          {
+            "name": "Taj Mahal",
+            "location": "Agra",
+            "description": "An ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra."
+          },
+          {
+            "name": "Varanasi",
+            "location": "Varanasi",
+            "description": "One of the oldest continuously inhabited cities in the world, also known as Kashi and Benaras, located in Uttar Pradesh, India."
+          }
+        ]
+      },
+      {
+        "name": "Uttarakhand",
+        "places": [
+          {
+            "name": "Jim Corbett National Park",
+            "location": "Nainital",
+            "description": "India's oldest national park and a popular tourist destination located in Nainital district of Uttarakhand."
+          },
+          {
+            "name": "Valley of Flowers National Park",
+            "location": "Chamoli",
+            "description": "A high-altitude Himalayan valley renowned for its meadows of endemic alpine flowers and diverse flora, located in the West Himalaya region of Uttarakhand."
+          }
+        ]
+      },
+      {
+        "name": "West Bengal",
+        "places": [
+          {
+            "name": "Victoria Memorial",
+            "location": "Kolkata",
+            "description": "A large marble building in Kolkata, West Bengal, India, dedicated to the memory of Queen Victoria, now a museum and tourist destination."
+          },
+          {
+            "name": "Sundarbans",
+            "location": "South 24 Parganas",
+            "description": "A vast forest delta covered with mangrove forests and home to the endangered Bengal tiger, located in South 24 Parganas district, in the Indian state of West Bengal."
+          }
+        ]
+      }
+    ]
+  }
+  
